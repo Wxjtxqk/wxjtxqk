@@ -8,4 +8,5 @@ I'm Kaku! I'm a random developer!
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,npm,googlecloud,visualstudio,raspberrypi,jenkins,nodejs)](https://skillicons.dev)
 ## Contact:
 Discord: ``kakudog``
+<br>
 Email: ``kaku@kaku.lol``
